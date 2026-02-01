@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#111" />
+  <text x="60" y="110" fill="#fff" font-family="Arial, sans-serif" font-size="56" font-weight="700">Lento Auto Repair</text>
+  <text x="60" y="170" fill="#ddd" font-family="Arial, sans-serif" font-size="24">Schiller Park — Collision, diagnostics, maintenance</text>
+  <g transform="translate(880,340)" opacity="0.08">
+    <rect x="0" y="0" width="260" height="160" rx="8" fill="#fff" />
+  </g>
+</svg>
